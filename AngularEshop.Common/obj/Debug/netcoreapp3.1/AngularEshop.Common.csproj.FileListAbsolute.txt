@@ -1,0 +1,12 @@
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\bin\Debug\netcoreapp3.1\AngularEshop.Common.deps.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\bin\Debug\netcoreapp3.1\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\bin\Debug\netcoreapp3.1\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\bin\Debug\netcoreapp3.1\AngularEshop.Common.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\bin\Debug\netcoreapp3.1\AngularEshop.Common.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Common\obj\Debug\netcoreapp3.1\AngularEshop.Common.genruntimeconfig.cache

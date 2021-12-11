@@ -1,0 +1,16 @@
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Services.deps.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\bin\Debug\netcoreapp3.1\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Services\obj\Debug\netcoreapp3.1\AngularEshop.Services.csproj.CopyComplete

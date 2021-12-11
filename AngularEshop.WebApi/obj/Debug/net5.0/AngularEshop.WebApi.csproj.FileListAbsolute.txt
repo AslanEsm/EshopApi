@@ -1,0 +1,762 @@
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.Css.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\HtmlSanitizer.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.Development.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\appsettings.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.exe
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.deps.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.runtimeconfig.dev.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ref\AngularEshop.WebApi.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebApi.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngleSharp.Css.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Mvc.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\ElmahCore.Sql.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\HtmlSanitizer.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Humanizer.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Pluralize.NET.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Scrutor.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.ReDoc.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.WebFramework.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Common.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Data.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Entities.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\bin\Debug\net5.0\AngularEshop.Services.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csprojAssemblyReference.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfoInputs.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.AssemblyInfo.cs
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CoreCompileInputs.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.Manifest.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\staticwebassets\AngularEshop.WebApi.StaticWebAssets.xml
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\scopedcss\bundle\AngularEshop.WebApi.styles.css
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.RazorTargetAssemblyInfo.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.csproj.CopyComplete
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\ref\AngularEshop.WebApi.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.WebApi\obj\Debug\net5.0\AngularEshop.WebApi.genruntimeconfig.cache

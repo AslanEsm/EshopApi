@@ -1,0 +1,140 @@
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi -addJwt\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - paging\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshopVersions\AngularEshopWebApi - productGallery\AngularEshop\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Project\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+D:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.deps.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.runtimeconfig.dev.json
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\ref\AngularEshop.Data.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Data.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Entities.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\bin\Debug\net5.0\AngularEshop.Common.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csprojAssemblyReference.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfoInputs.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.AssemblyInfo.cs
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CoreCompileInputs.cache
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.csproj.CopyComplete
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\ref\AngularEshop.Data.dll
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.pdb
+G:\Course-samples\Api\Sample\AngularEshop-Backend\AngularEshop.Data\obj\Debug\net5.0\AngularEshop.Data.genruntimeconfig.cache

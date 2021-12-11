@@ -1,0 +1,12 @@
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\bin\Debug\netcoreapp3.1\AngularEshop.Entities.deps.json
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\bin\Debug\netcoreapp3.1\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\bin\Debug\netcoreapp3.1\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.csprojAssemblyReference.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.AssemblyInfoInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.AssemblyInfo.cs
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.csproj.CoreCompileInputs.cache
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\bin\Debug\netcoreapp3.1\AngularEshop.Common.dll
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\bin\Debug\netcoreapp3.1\AngularEshop.Common.pdb
+D:\Course-samples\Api\Project\AngularEshopWebApi\AngularEshop\AngularEshop.Entities\obj\Debug\netcoreapp3.1\AngularEshop.Entities.csproj.CopyComplete
